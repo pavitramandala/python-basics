@@ -28,3 +28,12 @@ This repository contains basic Python programs that I practiced for coding inter
 - Improve Python programming skills
 - Prepare for coding interviews
 - Practice problem-solving
+
+  
+- ## ✨ Repository Features
+
+- Beginner-friendly Python programs
+- Simple and easy-to-understand code
+- Interview-oriented coding questions
+- Well-organized file structure
+- Suitable for Python beginners
